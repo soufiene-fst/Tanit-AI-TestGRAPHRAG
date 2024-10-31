@@ -1,6 +1,6 @@
 # Tanit-AI-TestGRAPHRAG
 
-# Tanit AI Test GraphRAG
+
 
 This project is a chatbot built using a graph database for retrieval-augmented generation (RAG), allowing for efficient query-based interactions. The project utilizes **LangChain**, **Neo4j** graph database, and **Chainlit** for the chatbot interface.
 
